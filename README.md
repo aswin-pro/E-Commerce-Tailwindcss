@@ -23,7 +23,8 @@ TailwindCSS: For styling the website with a modern and responsive design.
 
 How to View
 
-You can explore the TeeTopia by visiting 
+You can explore the TeeTopia by visiting https://aswin-pro.github.io/E-Commerce-Tailwindcss/
+
 Contributing
 
 If you'd like to contribute or suggest improvements, please feel free to open an issue or create a pull request. Your feedback and contributions are highly valued!
